@@ -23,8 +23,8 @@ I'm a Computer Science student at the University of Maryland with a minor in Cyb
 - Getting started with programming projects
 
 📫 How to reach me:
-- LinkedIn: (add after you update it)
-- Email: (add your professional email later)
+- LinkedIn: linkedin.com/in/jacob-demory/
+- Email: jacobmdemory@gmail.com
 
 ---
 
