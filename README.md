@@ -28,7 +28,7 @@ Five CMSC414 case studies covering buffer overflows, applied cryptography, SQL a
 
 A multi-level Java desktop game with a custom game loop, moving enemies, rotating-shape collision detection, collectibles, timing, and campaign progression.
 
-[Download v1.0.0](https://github.com/JacobDemory/worlds-hardest-game/releases/tag/v1.0.0)
+[Download latest release](https://github.com/JacobDemory/worlds-hardest-game/releases/latest)
 
 ### [MP3 Player](https://github.com/JacobDemory/mp3-player)
 
