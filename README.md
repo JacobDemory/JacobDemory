@@ -1,47 +1,50 @@
-# Hey, I'm Jacob Demory
+# Hi, I'm Jacob Demory
 
-I'm a Computer Science student at the University of Maryland with a minor in Cybersecurity. I'm interested in software engineering, cybersecurity, mobile development, AI/ML, game development, and building practical tools that solve real problems.
+I build full-stack, mobile, desktop, and security-focused software. My work spans deployed TypeScript applications, Flutter apps that use real device capabilities, Java desktop software, Python automation, and low-level cybersecurity projects.
 
-## Current Focus
-
-- Building a stronger portfolio of polished software and cybersecurity projects
-- Improving my full-stack, mobile, and systems programming skills
-- Preparing for software engineering, cybersecurity, and AI-focused roles
-- Contributing to open source and maintaining cleaner project documentation
+I'm especially interested in software engineering roles where I can build practical products, work across the stack, and bring a security-aware mindset to engineering decisions.
 
 ## Featured Projects
 
-### FitTrack
-A Flutter fitness tracking app with step counting, workout logging, SQLite persistence, weekly charts, settings, and streak tracking.
+### [Travel Logger](https://github.com/JacobDemory/travel-logger)
 
-### Terpiez
-A location-based Flutter mobile app using maps, geolocation, and interactive collection mechanics around the UMD campus.
+A deployed full-stack travel journal built with React, TypeScript, Express, Prisma, and PostgreSQL. It supports trip planning, memories, search and filtering, dashboard analytics, and context-aware weather for upcoming travel.
 
-### Honeypot Project
-A cybersecurity project focused on collecting, processing, and analyzing honeypot/MITM session data.
+[Live application](https://travel-logger-client.vercel.app/) · [API health](https://travel-logger-api.onrender.com/api/health)
 
-### TravelLogger
-A travel logging application for recording trips, destinations, notes, and memories.
+### [FitTrack](https://github.com/JacobDemory/fit-track)
 
-### BillSplitCalculator
-A Python project for splitting bills, calculating totals, and handling shared expenses.
+A local-first Flutter fitness tracker with live pedometer data, SQLite persistence, workout logging, weekly charts, configurable goals, and streak tracking.
 
-### Cybersecurity Case Studies
-Sanitized writeups from security-focused coursework involving buffer overflows, cryptography, SQL injection, and secure system design.
+### [Honeypot Session Analyzer](https://github.com/JacobDemory/honeypot-session-analyzer)
 
-## Tech Stack
+A HACS200 ACES Capstone project combining Bash automation and Python log processing to collect, structure, and analyze honeypot session activity.
 
-**Languages:** Python, Java, C, C++, JavaScript, TypeScript, Dart, Go, Rust, SQL, HTML/CSS  
-**Frameworks & Tools:** Flutter, React, Node.js, Express, Flask, FastAPI, Git, Docker, Linux, Bash  
-**Cybersecurity:** Wireshark, Nmap, Metasploit, iptables, packet analysis, secure coding  
-**Databases:** SQLite, PostgreSQL, MySQL, Redis  
+### [Cybersecurity Attack Case Studies](https://github.com/JacobDemory/sanitized-cyber-hacks)
 
-## What I'm Building Toward
+Five CMSC414 case studies covering buffer overflows, applied cryptography, SQL and web attacks, adversarial testing, and secure ATM protocol design.
 
-I'm currently focused on turning my academic, internship, and personal projects into a clean portfolio that shows practical software engineering ability, security awareness, and consistent technical growth.
+### [World's Hardest Game](https://github.com/JacobDemory/worlds-hardest-game)
 
----
+A multi-level Java desktop game with a custom game loop, moving enemies, rotating-shape collision detection, collectibles, timing, and campaign progression.
 
-📫 How to reach me:
-- LinkedIn: [jacob-demory](https://linkedin.com/in/jacob-demory/)
-- Email: jacobmdemory@gmail.com
+[Download v1.0.0](https://github.com/JacobDemory/worlds-hardest-game/releases/tag/v1.0.0)
+
+### [MP3 Player](https://github.com/JacobDemory/mp3-player)
+
+A Java Swing music library and playlist manager featuring MP3 metadata parsing, playback controls, persistent playlists, sorting, and custom data structures.
+
+## Technologies
+
+**Languages:** TypeScript, JavaScript, Python, Java, Dart, C, SQL, Bash, HTML, CSS
+
+**Application Development:** React, Vite, Node.js, Express, Flutter, Swing, AWT
+
+**Data:** PostgreSQL, Prisma, SQLite, Redis
+
+**Engineering:** Git, GitHub Actions, REST APIs, Linux, automated testing, Vercel, Render, Neon
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jacob-demory/)
+- [Email](mailto:jacobmdemory@gmail.com)
