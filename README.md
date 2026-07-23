@@ -1,6 +1,6 @@
 # Hi, I'm Jacob Demory
 
-I'm a University of Maryland computer science graduate with a minor in cybersecurity. I build full-stack, mobile, desktop, and security-focused software spanning deployed TypeScript applications, Flutter apps that use real device capabilities, Java desktop software, Python automation, and low-level cybersecurity projects.
+I'm a May 2026 University of Maryland computer science graduate with a minor in cybersecurity. I build full-stack, mobile, desktop, and security-focused software spanning deployed TypeScript applications, Flutter apps that use real device capabilities, Java desktop software, Python automation, and low-level cybersecurity projects.
 
 I'm especially interested in software engineering roles where I can build practical products, work across the stack, and bring a security-aware mindset to engineering decisions.
 
