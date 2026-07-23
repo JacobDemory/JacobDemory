@@ -46,6 +46,6 @@ A Java Swing music library and playlist manager featuring MP3 metadata parsing, 
 
 ## Connect
 
-- [Portfolio](https://www.jacobdemory.com/)
+- [Portfolio](https://jacobdemory.com/)
 - [LinkedIn](https://www.linkedin.com/in/jacob-demory/)
 - [Email](mailto:jacobmdemory@gmail.com)
